@@ -1,0 +1,36 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": 1664230206621,
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "description": "Sink Leaking",
+      "address": "123 Coal Rd.",
+      "budget": "380",
+      "neededBy": "2022-09-24",
+      "id": 1
+    },
+    {
+      "description": "awdawd",
+      "address": "awdawdawd",
+      "budget": "12",
+      "neededBy": "2022-09-16",
+      "id": 2
+    }
+  ]
+}

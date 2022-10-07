@@ -1,0 +1,13 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+#submitRequest {
+    color: white;
+    background-color: slateblue;
+    width: fit-content;
+    height: 3rem;
+}
